@@ -46,7 +46,7 @@
 
 **Chrome app**
 
-*You can install and stream Hulu with the Chrome browser web app on your supported PC and Mac computers
+*You can install and stream Hulu with the Chrome browser web app on your supported PC and Mac computers*
 
 *You can also install the Hulu app from the Microsoft Store on your Windows 10 devices*
 
